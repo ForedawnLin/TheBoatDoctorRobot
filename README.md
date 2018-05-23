@@ -4,7 +4,7 @@
 2. I mainly take charge of vision systems(objection detection and localization using Raspberry Pi cam and Kinect), robot simulation (ROS rviz), some system integration and test in the project. These work is roughly included in the following folders:
 /catkin_ws/src/myrobot_description; /object_detection; /iai_kinect2 
 3. The project won the first prize in the class competition. 
-4. Here is the video link: 
+4. Here is the video link: https://sites.google.com/andrew.cmu.edu/cmumechatronics2018teamd/gallery/videos?authuser=0; The last video shows our fully funcional robot. 
 5. Another main contributor of this project: https://github.com/firephinx
 
 
